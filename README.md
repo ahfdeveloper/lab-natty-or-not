@@ -61,5 +61,5 @@ Lyrics Into a Song AI gerou duas músicas e sugeriu o título para a música: "C
 [Corações como rios - versão 2](https://r2.lyricsintosong.ai/audio/cde4f922-7a1b-46a4-95e4-bb8e94401d15)
 
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 O processo de criação demonstrou como as ferramentas de IA estão poderosas com resultados espantosos. As músicas geradas neste trabalho possuem uma qualidade tão elevada que podem facilmente convencer qualquer pessoa de que foram criadas por humanos.
