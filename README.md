@@ -57,8 +57,8 @@ Para sempre ao seu lado, meu caminho divino<br/>
 <br/>
 
 Lyrics Into a Song AI gerou duas músicas e sugeriu o título para a música: "Corações como rios". <br/>
-[Corações como rios - versão 1](https://github.com/ahfdeveloper/lab-natty-or-not/blob/main/Cora%C3%A7%C3%B5es%20como%20Rios%20-%20vers%C3%A3o%201.mp3) <br/>
-[Corações como rios - versão 2](https://github.com/ahfdeveloper/lab-natty-or-not/blob/main/Cora%C3%A7%C3%B5es%20como%20Rios%20-%20vers%C3%A3o%202.mp3)
+[Corações como rios - versão 1](https://r2.lyricsintosong.ai/audio/d7f4680f-1116-4c53-88f8-f20f9fef0e79) <br/>
+[Corações como rios - versão 2](https://r2.lyricsintosong.ai/audio/cde4f922-7a1b-46a4-95e4-bb8e94401d15)
 
 
 ## 💭 Reflexão (Opcional)
